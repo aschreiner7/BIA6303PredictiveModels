@@ -9,6 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+The codes in this notebook closely follows the original notebook prepared by previous instructors of BIA 6303-Predictive Models: Myles Gartland and Harlan Hays. 
+
 ## Universal Bank  
 
 You probably have seen the Universal Bank dataset before in BIA 6301: Applied Data Mining. The target variable is PersonalLoan, or whether a customer accepted a loan offer from Universal Bank.
